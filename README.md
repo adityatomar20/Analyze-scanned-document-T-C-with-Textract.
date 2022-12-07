@@ -42,3 +42,15 @@ Steps to implement the demo:
                     - 	textract-response-process: This is the function which scrapes the file and helps in finding the differences.
 
 
+5. After this process has been completed - we simply upload the master file and after this upload the scanned document via the front end service. After clicking the submit button we get a document where the differences are hghlighted.
+
+## Video Link
+https://youtu.be/VZZ7y82Xjy4
+
+## Credits & Bibliography
+
+1. AWS Textract Homepage - https://aws.amazon.com/textract/
+2. Setup & Implementation - https://www.youtube.com/watch?v=L6vdd9OYF_8&t=2056s&ab_channel=SrceCde
+3. Setup & Implementation - https://www.youtube.com/watch?v=IRmeekfUZeA&ab_channel=CloudGuru
+4. https://docs.aws.amazon.com/managedservices/latest/userguide/textract.html
+5. https://nanonets.com/blog/aws-textract-teardown-pros-cons-review/
