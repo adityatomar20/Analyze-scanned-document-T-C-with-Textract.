@@ -12,9 +12,9 @@ app=Flask(__name__)
 
 
 app.config['S3_BUCKET'] = "trends-marketplace"
-app.config['S3_KEY'] = "AKIAZOI2L36XI4QOE3MF"
-app.config['S3_SECRET'] = "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"
-app.config['S3_LOCATION'] = 'http://us-east-2.s3.amazonaws.com/'.format('trends-marketplace')
+app.config['S3_KEY'] = "xxx"
+app.config['S3_SECRET'] = "xxx"
+app.config['S3_LOCATION'] = 'xxx')
 
 session = boto3.Session(
     aws_access_key_id=app.config['S3_KEY'],
